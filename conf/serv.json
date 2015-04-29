@@ -1,0 +1,9 @@
+{
+    "Port":30000,
+    "Ssl":false,
+    "SslPort":30001,
+    "Cert":"cert.pem",
+    "Key":"key.pem",
+    "Host":"",
+    "Buffer":8192
+}
